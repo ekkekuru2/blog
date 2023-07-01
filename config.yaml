@@ -8,12 +8,12 @@ languages:
   ja:
     languageName: 日本語
     title: Ekke Blog
-    description: ekke.jpの技術ブログ
+    description: Tech Blog of ekke.jp
     weight: 1
   en:
     languageName: English
-    title: Example Site
-    description: Example description
+    title: Ekke Blog
+    description: Tech Blog of ekke.jp
     weight: 2
 
 # Change it to your Disqus shortname before using
@@ -51,7 +51,7 @@ params:
 
   sidebar:
     emoji: 🦁
-    subtitle: このブログはekke.jpの技術ブログです。
+    subtitle: Tech Blog of ekke.jp
     avatar:
       enabled: true
       local: true
@@ -66,82 +66,7 @@ params:
       default: Licensed under CC BY-NC-SA 4.0
 
   comments:
-    enabled: true
-    provider: disqus
-
-    disqusjs:
-      shortname:
-      apiUrl:
-      apiKey:
-      admin:
-      adminLabel:
-
-    utterances:
-      repo:
-      issueTerm: pathname
-      label:
-
-    remark42:
-      host:
-      site:
-      locale:
-
-    vssue:
-      platform:
-      owner:
-      repo:
-      clientId:
-      clientSecret:
-      autoCreateIssue: false
-
-    # Waline client configuration see: https://waline.js.org/en/reference/component.html
-    waline:
-      serverURL:
-      lang:
-      pageview:
-      emoji:
-        - https://unpkg.com/@waline/emojis@1.0.1/weibo
-      requiredMeta:
-        - name
-        - email
-        - url
-      locale:
-        admin: Admin
-        placeholder:
-
-    twikoo:
-      envId:
-      region:
-      path:
-      lang:
-
-    # See https://cactus.chat/docs/reference/web-client/#configuration for description of the various options
-    cactus:
-      defaultHomeserverUrl: "https://matrix.cactus.chat:8448"
-      serverName: "cactus.chat"
-      siteName: "" # You must insert a unique identifier here matching the one you registered (See https://cactus.chat/docs/getting-started/quick-start/#register-your-site)
-
-    giscus:
-      repo:
-      repoID:
-      category:
-      categoryID:
-      mapping:
-      lightTheme:
-      darkTheme:
-      reactionsEnabled: 1
-      emitMetadata: 0
-
-    gitalk:
-      owner:
-      admin:
-      repo:
-      clientID:
-      clientSecret:
-
-    cusdis:
-      host:
-      id:
+    enabled: false
   widgets:
     homepage:
       - type: search
