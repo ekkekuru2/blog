@@ -121,16 +121,6 @@ menu:
       url: https://github.com/ekkekuru2
       params:
         icon: brand-github
-    - identifier: misskey
-      name: Misskey
-      url: https://mi.ekke.jp/@ekkekuru2
-      params:
-        icon: brand-misskey
-    - identifier: twitter
-      name: Twitter
-      url: https://twitter.com/ekkekuru2
-      params:
-        icon: brand-twitter
 
 related:
   includeNewer: true
