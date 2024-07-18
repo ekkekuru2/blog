@@ -10,11 +10,6 @@ languages:
     title: Ekke Blog
     description: Tech Blog of ekke.jp
     weight: 1
-  en:
-    languageName: English
-    title: Ekke Blog
-    description: Tech Blog of ekke.jp
-    weight: 2
 
 # Change it to your Disqus shortname before using
 disqusShortname: hugo-theme-stack
@@ -101,7 +96,7 @@ params:
     toggle: true
 
     # Available values: auto, light, dark
-    default: auto
+    default: light
 
   imageProcessing:
     cover:
