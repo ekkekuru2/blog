@@ -184,7 +184,7 @@ NixOS は Proxmox の LXC テンプレートには無いし、普通にはイン
 
 ちなみに最後の方で lib.fakeSha256 を指定しているのは、nvidia-persistenced の sha256 ハッシュ値がわからなかったからなのだが、エラーの内容を見ると、どうもハッシュが null で無いかしか見ていないようでハッシュの意味とは？？となった。
 
-![](./hashtoha.png)
+![](hashtoha.png)
 
 ## LXC を作成するたびに実施する手順
 
