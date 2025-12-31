@@ -1,7 +1,7 @@
 baseurl: https://blog.ekke.jp
 languageCode: ja-jp
 theme: hugo-theme-stack
-paginate: 5
+paginate: 10
 title: Ekke Blog
 
 languages:
@@ -108,7 +108,13 @@ params:
 ### See https://docs.stack.jimmycai.com/configuration/custom-menu.html
 ### To remove about, archive and search page menu item, remove `menu` field from their FrontMatter
 menu:
-  main: []
+  main: 
+    - identifier: about
+      name: About me
+      url: https://ekke.jp/
+      weight: -90
+      params:
+        icon: user
 
   social:
     - identifier: github
