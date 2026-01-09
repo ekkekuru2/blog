@@ -248,4 +248,4 @@ docker run --rm -it --device=nvidia.com/gpu=all ubuntu:latest nvidia-smi
 
 # 感想
 
-この前 Linux カーネルのソースコードを除いてみたら、デバイスドライバがほとんどだったのが意外だったのを思いだした。結局カーネルモジュールが何なのかはいまいちわかっていない。Linux From Scratch とかやりたい。
+この前 Linux カーネルのソースコードを覗いてみたら、デバイスドライバがほとんどだったのが意外だったのを思いだした。結局カーネルモジュールが何なのかはいまいちわかっていない。Linux From Scratch とかやりたい。
