@@ -8,7 +8,7 @@ categories = [
     "Tech"
 ]
 tags = [
-    "Linux","music"
+    "Linux"
 ]
 +++
 
