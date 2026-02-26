@@ -24,7 +24,6 @@ DJソフトmixxxではホットキューを最大36個設定できることが�
 最近聴いていて、刻んだり入れ換えたりしたら楽しそうだなと思った曲にいっぱいホットキューをつけて遊んでみた↓
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/09rejE3Uh-4?si=1oiCdqVnhCUPQ0Sw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 
