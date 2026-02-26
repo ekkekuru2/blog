@@ -13,9 +13,9 @@ tags = [
 +++
 
 # 概要
-DJソフトmixxxではホットキューを最大36個設定できることが公式ドキュメントにも記されている( [https://manual.mixxx.org/2.0/ja/glossary#term-hotcue](https://manual.mixxx.org/2.0/ja/glossary#term-hotcue)  )のだが、画面上ではどう頑張っても8個しかボタンが出てこない。
+DJソフトmixxxではホットキューを最大36個設定できることが公式ドキュメントにも記されている( https://manual.mixxx.org/2.0/ja/glossary#term-hotcue )のだが、画面上ではどう頑張っても8個しかボタンが出てこない。
 
-![8個しかホットキューのボタンが無い](./8.png)
+![8個しかホットキューのボタンが無い](8.png)
 
 
 悲嘆に暮れていたのだが、キーボードショートカットを変えることで無事36個のホットキューの設定ができた。
@@ -32,7 +32,8 @@ mixxxのマニュアルはちゃんと読んでいないのでもっと普通な
 
 
 # Mixxxのキーボードショートカットの変え方
-[https://manual.mixxx.org/2.5/ja/chapters/advanced_topics#advanced-keyboard](https://manual.mixxx.org/2.5/ja/chapters/advanced_topics#advanced-keyboard)
+
+( https://manual.mixxx.org/2.5/ja/chapters/advanced_topics#advanced-keyboard )
 
 
 を参考にやれば良い。
@@ -167,7 +168,7 @@ OptionsMenu_EnableShortcuts Ctrl+`
 
 hotcue_36_activate を36より大きくしたらどうなるのか、気になるよねーーーということで、 hotcue_37_activate を追加したら....
 
-![](./37.png)
+![](37.png)
 
 え!こういうタイプの仕様で行けることあるんだ!
 
